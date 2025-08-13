@@ -27,7 +27,7 @@ A comprehensive subscription management system with automated billing, payment p
 
 <img width="1477" height="693" alt="image" src="https://github.com/user-attachments/assets/e6a5c44f-3809-4c51-bfab-47c5924a4821" />
 
-
+<img width="631" height="1548" alt="image" src="https://github.com/user-attachments/assets/80cd6847-e2a5-4d3a-8601-609dfbcba705" />
 
 
 ## Tech Stack
