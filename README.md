@@ -14,6 +14,22 @@ A comprehensive subscription management system with automated billing, payment p
 - **Dashboard Analytics**: Comprehensive business metrics
 - **Webhook Integration**: Real-time payment status updates
 
+
+## Screenshots
+
+<img width="1314" height="897" alt="image" src="https://github.com/user-attachments/assets/a9688471-b435-4fb9-952b-e69fb5e5f2f6" />
+
+<img width="1652" height="902" alt="image" src="https://github.com/user-attachments/assets/eda2cba3-9904-4dcc-83ba-1a241c2532a8" />
+
+<img width="1604" height="439" alt="image" src="https://github.com/user-attachments/assets/c189ffbf-9082-4cd5-8e27-9ea8771362da" />
+
+<img width="1426" height="546" alt="image" src="https://github.com/user-attachments/assets/114ef489-40f5-40f4-8303-f9852355f917" />
+
+<img width="1477" height="693" alt="image" src="https://github.com/user-attachments/assets/e6a5c44f-3809-4c51-bfab-47c5924a4821" />
+
+
+
+
 ## Tech Stack
 
 ### Backend
@@ -93,6 +109,7 @@ npm start
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:5000
 - Health Check: http://localhost:5000/health
+- Login Credentials: admin@example.com / admin123
 
 ## API Documentation
 
