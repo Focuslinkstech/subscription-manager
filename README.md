@@ -46,8 +46,8 @@ A comprehensive subscription management system with automated billing, payment p
 
 ```bash
 # Extract the zip file
-unzip subscription-management-main.zip
-cd subscription-management-main
+unzip subscription-management.zip
+cd subscription-management
 
 # Install backend dependencies
 cd backend
